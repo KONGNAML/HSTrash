@@ -1,0 +1,2 @@
+# HSTrash
+HSTrash Plugin
