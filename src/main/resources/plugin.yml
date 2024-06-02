@@ -1,0 +1,7 @@
+name: HSTrash
+version: '${version}'
+main: org.kongit.hstrash.HSTrash
+api-version: '1.17'
+author: KONGNAML
+depend:
+  - HSLib
